@@ -25,7 +25,7 @@ Celestial was written to help manage loading media from external URLs and displa
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'ChrishonWyllie' => 'chrishon595@yahoo.com' }
-  s.source           = { :git => 'https://github.com/ChrishonWyllie/Celestial.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/8secz-johndpope/Celestial.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
   s.swift_versions   = ['4.0', '4.1', '4.2', '5.0', '5.1']
   
